@@ -79,10 +79,10 @@ public class ConversorMoedas {
                         converterMoeda("GBP", "EUR");
                         break;
                     case 7:
-                        converterMoeda("BRL", "EUR");
+                        converterMoeda("BRL", "USD");
                         break;
                     case 8:
-                        converterMoeda("EUR", "BRL");
+                        converterMoeda("USD", "BRL");
                         break;
                     case 0:
                         System.out.println("Obrigado por usar o Conversor de Moedas!");
