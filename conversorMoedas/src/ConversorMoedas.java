@@ -51,8 +51,8 @@ public class ConversorMoedas {
             System.out.println("4. USD para GBP");
             System.out.println("5. EUR para GBP");
             System.out.println("6. GBP para EUR");
-            System.out.println("7. BRL para EUR");
-            System.out.println("8. USD para EUR");
+            System.out.println("7. BRL para USD");
+            System.out.println("8. USD para BRL");
             System.out.println("0. Sair");
             System.out.println("Escolha uma opção:");
 
